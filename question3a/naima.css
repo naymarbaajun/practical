@@ -1,0 +1,19 @@
+img{
+    width: 150px;
+    border-radius: 200px;
+    
+    margin-right: 10px;
+     }
+     p{
+      font-weight: bold;
+     }
+     body{
+        background-color: lightblue;
+     }
+     li ul{
+        margin-bottom: 90px;
+        float: inline-end;
+        
+     }
+     
+     
